@@ -1,15 +1,12 @@
 ![hippo](https://i.imghippo.com/files/vVxWl1724241491.png)
 
-Here’s how you can structure a README file with step-by-step explanations of the code used in your USD to INR converter project.
-
----
-
 # USD to INR Currency Converter
 
 This project is a responsive currency converter that allows users to convert US Dollars (USD) to Indian Rupees (INR) using HTML, CSS, and JavaScript. The application is simple, intuitive, and perfect for anyone looking to perform quick currency conversions.
 
-Demo
-Check out the live demo of the USD to INR Currency Converter: USD to INR Converter Demo `https://your-username.github.io/usd-inr-converter/`.
+## Demo
+
+Check out the live demo: [USD to INR Converter](https://ajitharunai.github.io/usd-inr-converter/)
 
 ## Table of Contents
 - [Features](#features)
@@ -140,3 +137,6 @@ document.getElementById('convert-btn').addEventListener('click', function() {
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
+This README now includes a demo link to showcase your deployed currency converter.
