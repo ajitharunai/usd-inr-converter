@@ -1,4 +1,4 @@
-![hippo](https://www.imghippo.com/i/vVxWl1724241491.png)
+![hippo](https://i.imghippo.com/files/vVxWl1724241491.png)
 
 Here’s how you can structure a README file with step-by-step explanations of the code used in your USD to INR converter project.
 
