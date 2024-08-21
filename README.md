@@ -8,6 +8,9 @@ Here’s how you can structure a README file with step-by-step explanations of t
 
 This project is a responsive currency converter that allows users to convert US Dollars (USD) to Indian Rupees (INR) using HTML, CSS, and JavaScript. The application is simple, intuitive, and perfect for anyone looking to perform quick currency conversions.
 
+Demo
+Check out the live demo of the USD to INR Currency Converter: USD to INR Converter Demo `https://your-username.github.io/usd-inr-converter/`.
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
